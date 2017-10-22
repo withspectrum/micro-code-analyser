@@ -4,6 +4,8 @@ A tiny microservice to detect the language of a code snippet.
 
 By running this microservice you won't have to add megabytes of JavaScript to your frontend just to detect what language a user is writing code in. This is especially useful for syntax highlighting in rich text/WYSIWYG editing scenarios!
 
+> Note: Language detection is done via the [`lang-detector`](https://github.com/ts95/lang-detector) module. This means `micro-code-analyser` currently supports JavaScript, C, C++, Python, Java, HTML, CSS, Ruby, Go and PHP.
+
 ## Deployment
 
 Your own `micro-code-analyser` is one click away!
