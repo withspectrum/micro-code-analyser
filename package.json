@@ -25,7 +25,7 @@
     "husky": "^0.14.3",
     "jest": "^21.1.0",
     "lint-staged": "^4.2.2",
-    "micro-dev": "^1.2.3",
+    "micro-dev": "^1.4.0",
     "node-fetch": "^1.7.3",
     "prettier": "^1.7.0",
     "rimraf": "^2.6.2",
