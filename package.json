@@ -33,6 +33,6 @@
   },
   "dependencies": {
     "lang-detector": "^1.0.6",
-    "micro": "^9.3.3"
+    "micro": "^9.3.4"
   }
 }
