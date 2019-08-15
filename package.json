@@ -28,7 +28,7 @@
     "micro-dev": "^1.4.0",
     "node-fetch": "^1.7.3",
     "prettier": "^1.16.1",
-    "rimraf": "^2.6.3",
+    "rimraf": "^2.7.1",
     "test-listen": "^1.1.0"
   },
   "dependencies": {
